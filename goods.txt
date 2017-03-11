@@ -182,7 +182,7 @@ CloudChoir;
 VelOoz&Aaz;
 Nice Voice;
 Hitz Peak;
-UseMWandAT;
+UseMWand;
 Bone Tone;
 Hard Tuba;
 BriteMute;
