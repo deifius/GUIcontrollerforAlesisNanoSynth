@@ -1,5 +1,5 @@
 #N canvas 423 69 601 630 10;
-#N canvas 619 79 817 710 bignanosynthcontrol 0;
+#N canvas 463 79 817 710 bignanosynthcontrol 0;
 #X obj 182 202 scrolllist 42 60 166 {Helvetica\ 10\ bold} black green
 red;
 #X msg 78 174 add \$1;
